@@ -1,0 +1,23 @@
+{
+  "name": "redux_toolkit_learning",
+  "version": "1.0.0",
+  "description": "A Demo Application built to see how redux tool kit works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanKusunuri/redux_toolkit_learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavanKusunuri/redux_toolkit_learning/issues"
+  },
+  "homepage": "https://github.com/PavanKusunuri/redux_toolkit_learning#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
